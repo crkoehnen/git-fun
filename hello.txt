@@ -1,4 +1,5 @@
-This is a test file.
+This is a broken test txt file.
 It has only three lines.
 Definitely three.
 No fourth line.
+But need the fourth to get to the fifth.
