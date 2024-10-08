@@ -1,0 +1,4 @@
+This is a test file.
+It has only three lines.
+Definitely three.
+No fourth line.
